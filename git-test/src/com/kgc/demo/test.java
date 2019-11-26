@@ -8,5 +8,7 @@ public class test {
         System.out.println("牛高");
         System.out.println("牛高");
         System.out.println("牛高");
+
+        System.out.println("你好！！");
     }
 }
